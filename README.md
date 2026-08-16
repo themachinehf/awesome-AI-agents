@@ -33,6 +33,7 @@ Developer tools for building AI agents.
 
 | Tool | Description | Category |
 |------|-------------|----------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Source-available CLI and MCP server for natural-language web and mobile application tests | Testing & QA |
 | [LangSmith](https://smith.langchain.com) | Tracing and evaluation for LLM apps | Observability |
 | [LiteLLM](https://github.com/BerriAI/liteLLM) | Unified API for 100+ LLMs | Gateway |
 | [Ollama](https://github.com/ollama/ollama) | Run LLMs locally | Local Inference |
